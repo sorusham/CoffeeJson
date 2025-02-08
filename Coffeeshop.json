@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Espresso",
+    "description": "Strong and black coffee"
+  },
+  {
+    "name": "Cappuccino",
+    "description": "Espresso with milk and foam"
+  },
+  {
+    "name": "Latte",
+    "description": "Espresso with steamed milk"
+  },
+  {
+    "name": "Mocha",
+    "description": "Espresso with chocolate and steamed milk"
+  },
+  {
+    "name": "Americano",
+    "description": "Espresso with added hot water"
+  },
+  {
+    "name": "Macchiato",
+    "description": "Espresso with a small amount of milk"
+  }
+]
